@@ -8,8 +8,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 
 <div class="half">
-  <a href="https://github-readme-stats.vercel.app/api?username=victorsingha&&show_icons=true&title_color=fafafa&icon_color=ffffff&text_color=ffffff&bg_color=ff6d00"></img></a>
-  <a href="https://github.com/QC-L"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QC-L&hide=Objective-C,shell,swift&title_color=fafafa&icon_color=fafafa&text_color=fafafa&bg_color=ff6d00" height="195"></img></a>
+  <a href="https://github.com/victorsingha"><img src="https://github-readme-stats.vercel.app/api?username=victorsingha&&show_icons=true&title_color=fafafa&icon_color=ffffff&text_color=ffffff&bg_color=ff6d00"></img></a>
+  <a href="https://github.com/victorsingha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QC-L&hide=Objective-C,shell,swift&title_color=fafafa&icon_color=fafafa&text_color=fafafa&bg_color=ff6d00" height="195"></img></a>
 </div>
 
 <!--
