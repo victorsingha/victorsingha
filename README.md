@@ -9,7 +9,7 @@
 
 <div class="half">
   <a href="https://github-readme-stats.vercel.app/api?username=victorsingha&&show_icons=true&title_color=fafafa&icon_color=ffffff&text_color=ffffff&bg_color=ff6d00"></img></a>
-  <a href="https://github.com/QC-L"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsingha&hide=Objective-C,shell,swift&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
+  <a href="https://github.com/QC-L"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QC-L&hide=Objective-C,shell,swift&title_color=fafafa&icon_color=fafafa&text_color=fafafa&bg_color=ff6d00" height="195"></img></a>
 </div>
 
 <!--
