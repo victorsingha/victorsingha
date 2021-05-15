@@ -1,6 +1,5 @@
 ### Hi Aliens 👋
 
-![victorsingha](https://github-readme-stats.vercel.app/api?username=victorsingha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <div class="half">
   <a href="https://github.com/QC-L"><img src="https://github-readme-stats.vercel.app/api?username=victorsingha&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50"></img></a>
   <a href="https://github.com/QC-L"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsingha&hide=Objective-C,shell,swift&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
@@ -8,6 +7,7 @@
 
 <!--
 **victorsingha/victorsingha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![victorsingha](https://github-readme-stats.vercel.app/api?username=victorsingha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 Here are some ideas to get you started:
 
