@@ -8,8 +8,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 
 <div class="half">
-  <a href="https://github.com/victorsingha"><img src="https://github-readme-stats.vercel.app/api?username=victorsingha&&show_icons=true&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa"></img></a>
-  <a href="https://github.com/victorsingha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsingha&hide=Objective-C,shell,swift&title_color=0d47a1&icon_color=0d47a1&text_color=0d47a1&bg_color=fafafa" height="195"></img></a>
+  <a href="https://github.com/victorsingha"><img src="https://github-readme-stats.vercel.app/api?username=victorsingha&&show_icons=true&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa&hide_border=true"></img></a>
+  <a href="https://github.com/victorsingha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsingha&hide=Objective-C,shell,swift&title_color=0d47a1&icon_color=0d47a1&text_color=0d47a1&bg_color=fafafa&hide_border=true" height="195"></img></a>
 </div>
 
 <!--
