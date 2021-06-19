@@ -9,7 +9,7 @@
 
 <div class="half">
   <a href="https://github.com/victorsingha"><img src="https://github-readme-stats.vercel.app/api?username=victorsingha&&show_icons=true&title_color=111827&icon_color=111827&text_color=F9FAFB&bg_color=10B981&hide_border=true"></img></a>
-  <a href="https://github.com/victorsingha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsingha&hide=Objective-C,shell,swift&title_color=34D399&icon_color=34D399&text_color=F9FAFB&bg_color=111827&hide_border=true" height="195"></img></a>
+  <a href="https://github.com/victorsingha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsingha&hide=Objective-C,shell,swift&title_color=34D399&icon_color=34D399&text_color=F9FAFB&bg_color=111827&hide_border=true" height="300"></img></a>
 </div>
 <!--
 <a href="https://github.com/victorsingha"><img src="https://activity-graph.herokuapp.com/graph?username=victorsingha&&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa&hide_border=true"></img></a>
