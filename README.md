@@ -11,7 +11,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
 <div class="half">
-  <a href="https://github.com/victorsingha"><img src="https://icons8.com/l/animations/images/Sleeping_cat.gif"></img></a>
+  <a href="https://victorsingha.github.io/portfolio/"><img src="https://icons8.com/l/animations/images/Sleeping_cat.gif"></img></a>
 </div>
 <a href="https://victorsingha.github.io/portfolio/" class="button big">Click Me</a>
 
