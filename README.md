@@ -13,7 +13,8 @@
 <div class="half">
   <a href="https://github.com/victorsingha"><img src="https://icons8.com/l/animations/images/Sleeping_cat.gif"></img></a>
 </div>
-   <a href="https://victorsingha.github.io/portfolio/">Click Me</a>
+# <a href="https://victorsingha.github.io/portfolio/">Click Me</a>
+#  
 
 
 <div class="half">
