@@ -13,12 +13,12 @@
 <div class="half">
   <a href="https://github.com/victorsingha"><img src="https://icons8.com/l/animations/images/Sleeping_cat.gif"></img></a>
 </div>
-<a href="https://victorsingha.github.io/portfolio/"><h1>Click Me</h1></a>
+<a href="https://victorsingha.github.io/portfolio/" class="button big">Click Me</a>
 
 
 <div class="half">
-  <a href="https://github.com/victorsingha"><img src="https://github-readme-stats.vercel.app/api?username=victorsingha&&show_icons=true&title_color=#0366dd&icon_color=111827&text_color=daf7dc&bg_color=fafafa&hide_border=false" height="230"></img></a>
-  <a href="https://github.com/victorsingha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsingha&hide=Objective-C,shell,swift&title_color=#0366dd&icon_color=34D399&text_color=F9FAFB&bg_color=111827&hide_border=true" height="230"></img></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=victorsingha&&show_icons=true&title_color=#0366dd&icon_color=111827&text_color=daf7dc&bg_color=fafafa&hide_border=false" height="230"></img></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsingha&hide=Objective-C,shell,swift&title_color=#0366dd&icon_color=34D399&text_color=F9FAFB&bg_color=111827&hide_border=true" height="230"></img></a>
 </div>
 <!--
 <a href="https://github.com/victorsingha"><img src="https://activity-graph.herokuapp.com/graph?username=victorsingha&&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa&hide_border=true"></img></a>
