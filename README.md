@@ -17,8 +17,10 @@
 </div>
 <a href="https://victorsingha.github.io/portfolio/" class="button big">Click Me</a>
 
+
+## Angular GithubPages
 ```
-# Angular GithubPages
+
 ng build --base-href "https://username.github.io/reponame/"
 ngh --dir dist/foldername
 
