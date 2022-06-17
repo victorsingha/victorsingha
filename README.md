@@ -17,6 +17,13 @@
 </div>
 <a href="https://victorsingha.github.io/portfolio/" class="button big">Click Me</a>
 
+```
+# Angular GithubPages
+ng build --base-href "https://username.github.io/reponame/"
+ngh --dir dist/foldername
+
+```
+
 
 <div class="half">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=victorsingha&&show_icons=true&title_color=#0366dd&icon_color=111827&text_color=daf7dc&bg_color=fafafa&hide_border=false" height="230"></img></a>
