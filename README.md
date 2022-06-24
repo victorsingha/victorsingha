@@ -7,7 +7,7 @@
 
 ## Angular GithubPages
 ```
-ng new ProjectName --routing=true
+ng new ProjectName --style=scss --routing=true
 ng build --base-href "https://username.github.io/reponame/"
 ngh --dir dist/foldername
 
