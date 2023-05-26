@@ -11,6 +11,9 @@ ng new ProjectName --style=scss --routing=true
 ng build --base-href "https://username.github.io/reponame/"
 ngh --dir dist/foldername
 
+ng add angular-cli-ghpages
+ng deploy --base-href=/reponame/
+
 ```
 
 
